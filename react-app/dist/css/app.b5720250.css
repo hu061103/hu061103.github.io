@@ -1,0 +1,14 @@
+html,
+body,
+#app,
+.main {
+  width: 100vw;
+  height: 100vh;
+}
+
+#app {
+  color: #9acd32;
+  width: 2rem;
+  height: 3rem;
+}
+/*# sourceMappingURL=app.b5720250.css.map*/
