@@ -1,0 +1,33 @@
+//  全局的样式 golbal css
+
+// @import "animate.css";
+// @import "common";
+
+
+
+$base_color:yellowgreen;
+$base_font:40px;
+
+html,body,#app,.main{
+    width:100vw;
+    height:100vh;
+    font-size: 16px;  /*no*/
+}
+
+#app{
+    color: $base_color;
+    border: 1px solid royalblue;
+}
+
+
+.box{
+    border:4px solid darkgreen;
+    background: #ccc;
+}
+
+.h2{
+    color:darkmagenta;
+}
+.h3{
+    color: aqua;
+}
